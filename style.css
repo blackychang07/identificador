@@ -1,0 +1,49 @@
+body
+{
+background: url("claro.jpg");
+background-size: cover;
+background-position:center;
+}
+
+p
+{
+    color: rgb(62, 122, 249);
+    font-size: medium;
+    font-family: cursive;
+}
+
+#cosas
+{
+    color: #231acd;
+    font-family: cursive;
+    font-size: medium;
+    font-weight: bolder;
+}
+
+hr
+{
+border-top: #00d0ff 5px dotted;
+}
+
+label
+{
+    font-family: cursive;
+    font-size: medium;
+    color: #231acd;
+}
+
+h3
+{
+font-family: fantasy;
+font-size: large;
+color: rgb(0, 140, 255) !important;
+}
+
+#celular, #libro, #juguete, #perfume
+{
+    width: 200px;
+    height: 15px;
+    background-color: aquamarine;
+    display: inline-block;
+    border-radius: 10px;
+}
